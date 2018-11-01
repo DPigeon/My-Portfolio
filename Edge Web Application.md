@@ -2,7 +2,7 @@
 # Edge - Web Application (Frontend) 
 This web application was made with React.js using JavaScript, HTML and CSS. It is a parent-teacher app communication. It can be compared to Facebook.
 
-## The user can login and signup succesfully. Once he is logged in, the dashboard shows up.
+## The user can login and signup succesfully. Once he is logged in, the dashboard shows up along with his name on the side.
 
 ![1](https://user-images.githubusercontent.com/37888675/47831771-61af0f00-dd68-11e8-890e-b116eab89f63.png)
 
