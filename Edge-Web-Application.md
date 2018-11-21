@@ -1,6 +1,11 @@
 
-# Edge - Web Application (Frontend) 
-This web application was made with React.js using JavaScript, HTML and CSS. It is a parent-teacher app communication. It can be compared to Facebook.
+# Edge - Web Application (Currently a Private Repository) 
+This web application was made with:
+
+- React.js with JavaScript, HTML and CSS on the frontend
+- NodeJS and Express with MySQL on the backend
+
+It is a social platform. It can be compared to Facebook.
 
 ## The user can login and signup succesfully. Once he is logged in, the dashboard shows up along with his name on the side.
 
