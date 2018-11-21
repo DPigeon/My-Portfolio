@@ -23,8 +23,6 @@ It is a social platform. It can be compared to Facebook.
 
 ### The user can see groups to join. Once a request to join is sent, the admin of the group receives a notification and accepts or rejects the member.
 
-![grouppage](https://user-images.githubusercontent.com/37888675/48873619-d9e38000-edbc-11e8-9445-f53d4d68c9b5.png)
-
 ### The user can make a new group.
 
 ![creategroups](https://user-images.githubusercontent.com/37888675/48873618-d9e38000-edbc-11e8-9503-22e0c758bccf.png)
@@ -32,6 +30,10 @@ It is a social platform. It can be compared to Facebook.
 ### He can join groups.
 
 ![joingroups](https://user-images.githubusercontent.com/37888675/48873621-da7c1680-edbc-11e8-87cb-2382f1cc8abc.png)
+
+### The user can view a group if they are a member of the group.
+
+![grouppage](https://user-images.githubusercontent.com/37888675/48873619-d9e38000-edbc-11e8-9445-f53d4d68c9b5.png)
 
 ### Finally, he can search for groups also.
 
