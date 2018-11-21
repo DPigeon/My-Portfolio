@@ -1,32 +1,38 @@
 
 # Edge - Web Application (Currently a Private Repository) 
+It is being made with 5 other collegues (Ribal, Anas, Ruslan, Maria and Marwan).
 This web application was made with:
 
-- React.js with JavaScript, HTML and CSS on the frontend
-- NodeJS and Express with MySQL on the backend
+- React.js with JavaScript, HTML and CSS on the frontend (I worked on frontend a lot)
+- NodeJS and Express with MySQL on the backend (I worked on backend a little bit)
 
 It is a social platform. It can be compared to Facebook.
 
-## The user can login and signup succesfully. Once he is logged in, the dashboard shows up along with his name on the side.
+### The user can login and signup succesfully. Once he is logged in, the dashboard shows up along with his name on the side.
+### The user can post on the dashboard, comment to posts and like/dislike posts.
 
-![1](https://user-images.githubusercontent.com/37888675/47831771-61af0f00-dd68-11e8-890e-b116eab89f63.png)
+![homepage](https://user-images.githubusercontent.com/37888675/48873620-da7c1680-edbc-11e8-94d3-69739617bc5f.png)
 
 ### The user can access to his profile page.
 
-![2](https://user-images.githubusercontent.com/37888675/47831772-61af0f00-dd68-11e8-8c24-a4cd0967e2fb.png)
+![profile](https://user-images.githubusercontent.com/37888675/48873623-da7c1680-edbc-11e8-8397-012886a21e6f.png)
 
 ### The user can see his received messages.
 
-![3](https://user-images.githubusercontent.com/37888675/47831773-61af0f00-dd68-11e8-904c-461084cf1f07.png)
+![messages](https://user-images.githubusercontent.com/37888675/48873622-da7c1680-edbc-11e8-8df5-55ca683feca2.png)
 
-### The user can see groups to join.
+### The user can see groups to join. Once a request to join is sent, the admin of the group receives a notification and accepts or rejects the member.
 
-![4](https://user-images.githubusercontent.com/37888675/47831774-61af0f00-dd68-11e8-8177-011df76a8625.png)
+![grouppage](https://user-images.githubusercontent.com/37888675/48873619-d9e38000-edbc-11e8-9445-f53d4d68c9b5.png)
 
 ### The user can make a new group.
 
-![5](https://user-images.githubusercontent.com/37888675/47831775-61af0f00-dd68-11e8-806f-09a309e584b8.png)
+![creategroups](https://user-images.githubusercontent.com/37888675/48873618-d9e38000-edbc-11e8-9503-22e0c758bccf.png)
 
-### The user can post on the dashboard, comment to posts and like/dislike posts.
+### He can join groups.
 
-![6](https://user-images.githubusercontent.com/37888675/47831770-61af0f00-dd68-11e8-80cc-ba34401d13e2.png)
+![joingroups](https://user-images.githubusercontent.com/37888675/48873621-da7c1680-edbc-11e8-87cb-2382f1cc8abc.png)
+
+### Finally, he can search for groups also.
+
+![seearchgroups](https://user-images.githubusercontent.com/37888675/48873624-da7c1680-edbc-11e8-84c4-3e7e2ef7e416.png)
