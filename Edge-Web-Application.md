@@ -1,5 +1,6 @@
 
-# Edge - Web Application (Currently a Private Repository) 
+# Edge - Web Application (Private Repository) 
+# Start: September 3rd, Completed: December 5th
 It is being made with 5 other collegues ([Ribal](https://github.com/ribal-aladeeb), [Anas](https://github.com/AnasBuyumad), [Ruslan](https://github.com/RuslanSinyavsky), [Maria](https://github.com/ahmedmaria) and [Marwan](https://github.com/marwan011)).
 This web application was made with:
 
