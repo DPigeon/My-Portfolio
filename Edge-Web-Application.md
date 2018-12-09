@@ -1,10 +1,10 @@
 
 # Edge - Web Application (Private Repository) 
 # Start: September 3rd, Completed: December 5th
-It is being made with 5 other collegues ([Ribal](https://github.com/ribal-aladeeb), [Anas](https://github.com/AnasBuyumad), [Ruslan](https://github.com/RuslanSinyavsky), [Maria](https://github.com/ahmedmaria) and [Marwan](https://github.com/marwan011)).
+It was made with 5 other collegues ([Ribal](https://github.com/ribal-aladeeb), [Anas](https://github.com/AnasBuyumad), [Ruslan](https://github.com/RuslanSinyavsky), [Maria](https://github.com/ahmedmaria) and [Marwan](https://github.com/marwan011)).
 This web application was made with:
 
-- React.js with JavaScript, HTML and CSS on the frontend [[Marwan](https://github.com/marwan011) (design, CSS) and I (logic of the site, integration between backend and frontend)]
+- React.js with JavaScript, HTML and CSS on the frontend [[Marwan](https://github.com/marwan011) (design, CSS) and I (logic of the website, integration between backend and frontend)]
 - NodeJS and Express with MySQL on the backend [[Ribal](https://github.com/ribal-aladeeb), [Anas](https://github.com/AnasBuyumad) and I] 
 
 It is a social platform. It can be compared to Facebook.
