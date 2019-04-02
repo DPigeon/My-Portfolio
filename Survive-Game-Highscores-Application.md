@@ -29,7 +29,7 @@ When the user dies on the game, it asks him to enter his name. That name is then
 The user can download the game, play (coming later) or view the game`s owner website in the navigation bar.
 If you have less than 10 points on the highscores, you cannot be shown on it.
 
-Also, the user can see a user`s profile. It can be viewed by searching on the search bar input or by clicking on a user`s profile:
+Also, the user can see a user's profile. It can be viewed by searching on the search bar input or by clicking on a user`s profile:
 The user will be redirected to /user/Max for example.
 
 # Coming Soon
