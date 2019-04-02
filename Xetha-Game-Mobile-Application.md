@@ -36,8 +36,13 @@ When you press the snowman icon, a bad snowman arrives. You have to melt it as f
 
 ![snowman](https://user-images.githubusercontent.com/37888675/55372959-91a63e00-54d1-11e9-9075-7462fd4f8c13.png)
 
-# Coming Soon:
 ## Duck Minigame
+
+When you press the duck icon, a duck looks at the other ducks' icons to help you get out of the puzzle...
+
+![duckMini](https://user-images.githubusercontent.com/37888675/55373844-7688fd80-54d4-11e9-8fe7-0d7ef4cbfd25.png)
+
+# Coming Soon:
 ## Flash Minigame
 ## Ghosting
 ## Multi-Touch Effect
