@@ -1,6 +1,6 @@
-# Survive Highscores - Web Application (Private Repository) 
+# Survive Game Highscores - Web Application (Private Repository) 
 # Start: January 21th
-The game was made by [jacoblap](https://github.com/jacoblap) and the web highscores was made by myself.
+The Survive game was made by [jacoblap](https://github.com/jacoblap) and the web highscores was made by myself.
 
 This mobile application is made with:
 
