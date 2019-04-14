@@ -40,13 +40,16 @@ When you press the snowman icon, a bad snowman arrives. You have to melt it as f
 
 When you press the duck icon, a duck looks at the other ducks' icons to help you get out of the puzzle...
 
-![duckMini](https://user-images.githubusercontent.com/37888675/55373844-7688fd80-54d4-11e9-8fe7-0d7ef4cbfd25.png)
+![duck](https://user-images.githubusercontent.com/37888675/56100407-5569d900-5ee6-11e9-98e4-fb72b89fcb50.png)
 
-# Coming Soon:
+
 ## Flash Minigame
-## Ghosting
-## Multi-Touch Effect
-## Wiiiiii! Effect
-## Settings
-## About
-## And more...
+
+When you press the flash icon, a flashing occurs and it asks you to answer a question (random, there are about 10 random questions. If you get the answer right, you can continue playing.
+
+![flash](https://user-images.githubusercontent.com/37888675/56100408-5569d900-5ee6-11e9-91ed-8d97663c9c9a.png)
+
+# What is next to do ?
+- More minigames
+- Make the game harder
+
