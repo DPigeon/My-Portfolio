@@ -1,5 +1,6 @@
 # Xetha - Mobile Application (Private Repository) 
-# Start: January 28th
+# Start: January 28th 2019
+# End: April 14th 2019
 Made by myself (DPigeon)
 This mobile application is made with:
 
