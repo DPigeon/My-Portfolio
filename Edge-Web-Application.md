@@ -49,3 +49,10 @@ It is a social platform. It can be compared to Facebook.
 ### Finally, if we go back to the homepage dashboard, the user can tag other users on posts and comments. The user tagged will receive a notification.
 
 ![tagging](https://user-images.githubusercontent.com/37888675/49561605-1f886880-f8e6-11e8-8af1-cbf10a457651.png)
+
+## System Architecture Diagram
+
+![architectureDiagram](https://user-images.githubusercontent.com/37888675/49553994-3e780200-f8c8-11e8-88a0-f929c7130892.jpg)
+
+## Entity Relationship Diagram
+![entityDiagram](https://user-images.githubusercontent.com/37888675/49553928-040e6500-f8c8-11e8-9560-93d6e8badd34.jpg)
