@@ -45,3 +45,6 @@ The main purpose of the tool is to provide an easy way for Nuance developers, re
 
 <img width="80" height="60" src="https://user-images.githubusercontent.com/37888675/58675152-102c2a00-8321-11e9-9b23-e67897ae8532.png"><img width="80" height="80" src="https://user-images.githubusercontent.com/37888675/58675164-10c4c080-8321-11e9-91f9-f46cf1c5765e.png">
 <img width="100" height="60" src="https://user-images.githubusercontent.com/37888675/58675151-102c2a00-8321-11e9-8a9c-d7f6b5fe5c4a.png">
+
+<h2>Features</h2>
+Pictures undisclosed for now
