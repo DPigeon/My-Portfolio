@@ -1,5 +1,5 @@
-# Nuance Internship Project - User Interface Tool
-# Full Stack Web Application
+# Nuance Internship Project - Thanatos
+# Full Stack Web Application of a User Interface Tool
 ### Start: January 7th 2019 (ongoing)
 ### Position: Software Developer Intern 
 
