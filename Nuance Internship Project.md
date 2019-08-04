@@ -5,12 +5,7 @@
 
 The main purpose of the tool is to provide an easy way for Nuance developers, researchers, testers, and technical writers to interact with the core engines of the company.
 
-### Main Features
-
-- Interpret text & audio request to engines around Nuance using the tool 
-- Receive a responses back on the tool in text or audio 
-- Data visualization of artificial intelligence 
-- Used to show clients a demo of the intention & concept in the speech or text of a user
+### Full Stack App & Data Visualization of AI
 
 <h2>Technologies Used:</h2>
 
@@ -47,4 +42,4 @@ The main purpose of the tool is to provide an easy way for Nuance developers, re
 <img width="100" height="60" src="https://user-images.githubusercontent.com/37888675/58675151-102c2a00-8321-11e9-8a9c-d7f6b5fe5c4a.png">
 
 <h2>Features</h2>
-Pictures undisclosed for now
+Pictures and other info undisclosed for now
