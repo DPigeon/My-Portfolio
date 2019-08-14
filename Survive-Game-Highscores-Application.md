@@ -36,5 +36,5 @@ The user will be redirected to /user/Max for example.
 ## Profile Stats
 ## More tables in the highscores
 ## View the highscores by best categories
-## Pagination (see 20 users per pages for example
+## Pagination (see 20 users per pages for example)
 ## And more...
