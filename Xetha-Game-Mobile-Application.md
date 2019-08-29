@@ -1,4 +1,4 @@
-# Xetha - Mobile Application (Private Repository) 
+# Xetha - Mobile Game (Private Repository) 
 ## Start: January 28th 2019
 ## End: April 14th 2019
 Made by myself (DPigeon)
