@@ -52,8 +52,7 @@ Pictures and other info undisclosed for now. Can be discussed if asked.
 ### Position: Software Developer Intern 
 A wrapper to view all metrics, graphs, logs, processes & more of an application
 
-<img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/58675159-10c4c080-8321-11e9-96b9-dce387cb0a49.png">
-<img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/66413566-9d654680-e9c5-11e9-9854-178161d917b4.png">
+<img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/58675159-10c4c080-8321-11e9-96b9-dce387cb0a49.png"><img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/66413566-9d654680-e9c5-11e9-9854-178161d917b4.png">
 <img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/66413567-9d654680-e9c5-11e9-8f32-e2efb77475c5.png">
 <img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/58675148-0f939380-8321-11e9-9711-cc2249a25ae1.png">
 <img width="60" height="40" src="https://user-images.githubusercontent.com/37888675/66413564-9d654680-e9c5-11e9-8dca-1922d879cd57.png">
