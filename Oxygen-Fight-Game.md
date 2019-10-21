@@ -6,6 +6,8 @@
 
 ### Finish: October 18th 2019
 
+<a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
+
 This game was made in my Intro to Game Development Class (COMP376).
 
 ### The goal of the game is to collect all golden items and bring them to the ship.
@@ -17,4 +19,7 @@ Two modes available: normal mode and special mode (ability to obtain a boost tan
 - Unity with C#
 
 <h2>Features</h2>
-<a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
+
+![MainMenu](https://user-images.githubusercontent.com/37888675/66623488-e847af80-ebb9-11e9-80f1-1390728bc222.png)
+
+![Gameplay](https://user-images.githubusercontent.com/37888675/66623544-27760080-ebba-11e9-89d9-ed55e22037ed.png)
