@@ -17,4 +17,4 @@ Two modes available: normal mode and special mode (ability to obtain a boost tan
 - Unity with C#
 
 <h2>Features</h2>
-## <a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
+<a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
