@@ -6,13 +6,24 @@
 
 ### Finish: October 18th 2019
 
-<a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
+### <a href="https://www.youtube.com/watch?v=E9XpZMadpyY" target="_blank">Demo Video</a>
+
+### [Download & Play (Windows)](https://github.com/DPigeon/My-Portfolio/blob/master/Oxygen%20Fight/Oxygen%20Fight%20Setup.exe?raw=true)
 
 This game was made in my Intro to Game Development Class (COMP376).
 
 ### The goal of the game is to collect all golden items and bring them to the ship.
 
 Two modes available: normal mode and special mode (ability to obtain a boost tank to go fast).
+
+### Controls
+
+You may use the left, down & up arrows to play. To swim upwards, use the Z key by tapping it.
+When in Special Mode, use the space bar to activate the Nitro Gold Tank.
+
+### Game Download
+
+You can download the game setup for windows [here](https://github.com/DPigeon/My-Portfolio/blob/master/Oxygen%20Fight/Oxygen%20Fight%20Setup.exe?raw=true).
 
 <h2>Technologies Used:</h2>
 
