@@ -2,9 +2,9 @@
 
 ## A variation of Oxygen Fight that I made before: a 3D game made with Unity.
 
-### Start: October 22th 2019
+### Start: October 22nd 2019
 
-### Finish: November 21th 2019
+### Finish: November 21st 2019
 
 This game was made in my Intro to Game Development Class (COMP376).
 
