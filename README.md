@@ -6,4 +6,4 @@ All the descriptions of my private repositories & other projects.
 - [Xetha: Mobile Game Application](https://github.com/DPigeon/My-Portfolio/blob/master/Xetha-Game-Mobile-Application.md)
 - [Survive Highscores: Web Application of a Game](https://github.com/DPigeon/My-Portfolio/blob/master/Survive-Game-Highscores-Application.md)
 - [Oxygen Fight Game](https://github.com/DPigeon/My-Portfolio/blob/master/Oxygen-Fight-Game.md)
-
+- [Golden Sea Game](https://github.com/DPigeon/My-Portfolio/blob/master/Golden-Sea-Game.md)
