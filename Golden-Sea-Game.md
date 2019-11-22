@@ -25,10 +25,6 @@ Two modes available: normal mode and special mode (ability to obtain a boost tan
 - 'Z' Key: Toggle on/off the 3rd person view camera to see around & behind the submarine
 - 'Q' Key: Pause
 
-### Game Download
-
-Coming soon.
-
 <h2>Technologies Used:</h2>
 
 - Unity with C#
