@@ -6,6 +6,10 @@
 
 ### Finish: November 21st 2019
 
+### <a href="https://www.youtube.com/watch?v=Mu9Wsd-A6Co" target="_blank">Demo Video</a>
+
+### [Download & Play (Windows)](http://www.mediafire.com/file/klqoceywm8r2ppv/Golden_Sea_Setup_%2528x86%2529.exe/file)
+
 This game was made in my Intro to Game Development Class (COMP376).
 
 ### The goal of the game is to collect all golden items and bring them to the ship.
