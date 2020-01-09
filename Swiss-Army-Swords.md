@@ -6,7 +6,7 @@
 
 ### Finish: December 6th 2019
 
-### <a href="https://www.youtube.com/watch?v=j6nc4PS6lf4" target="_blank">Demo Video</a>
+### <a href="https://www.youtube.com/watch?v=Rnj3JLlF1v0" target="_blank">Demo Video</a>
 
 ### [Download & Play (Windows)](http://www.mediafire.com/file/dz4ghev1uejlseb/Swiss_Army_Swords_2.1.4_Setup.exe/file)
 ### [Download & Play (Mac OS X)](http://www.mediafire.com/file/ejf9es320gdx6x6/Swiss_Army_Swords_2.1.4_MacOS.zip/file)
