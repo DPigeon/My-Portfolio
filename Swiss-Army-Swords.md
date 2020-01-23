@@ -14,6 +14,8 @@
 
 This game was made in my Intro to Game Development Class (COMP376) as a final project.
 
+[Repository](https://github.com/DPigeon/Swiss-Army-Swords)
+
 ### The goal of the game is to collect all the sword and make your way through the Trials of Blades.
 
 - Genre: 2D Puzzle Platformer
