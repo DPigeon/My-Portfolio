@@ -9,6 +9,8 @@ This web application was made with:
 
 It is a social platform. It can be compared to Facebook.
 
+[Repository](https://github.com/DPigeon/Edge)
+
 ## Features
 
 ### The user can login and signup succesfully. Once he is logged in, the dashboard shows up along with his name on the side.
