@@ -48,7 +48,7 @@ Pictures and other info undisclosed for now. Can be discussed if asked.
 # 2. Nuance Internship Project
 ## gRPC Boilerplate
 ### Start: May 7th 2019
-### Finish: August 23rd
+### Finish: August 23rd 2019
 ### Position: Software Developer Intern 
 A wrapper to view all metrics, graphs, logs, processes & more of an application. Deployed on Kubernetes with Helm.
 
@@ -67,6 +67,23 @@ Technologies Used:
 * Kubernetes
 * Helm
 * Testing: <a href="https://jestjs.io/">Jest</a>
+
+<h2>Features</h2>
+Pictures and other info undisclosed for now. Can be discussed if asked.
+
+# 3. Nuance Internship Project
+## Biometrics Team Working on Multiple Projects
+### Start: May 11th 2020
+### Finish: August 21st 2020
+### Position: Software Developer Intern 
+Worked on multiple undisclosed projects for the biometrics team.
+
+Technologies Used:
+* Java (Spring Boot)
+* Python
+* Docker
+* Kubernetes
+* Testing: JUnit
 
 <h2>Features</h2>
 Pictures and other info undisclosed for now. Can be discussed if asked.
