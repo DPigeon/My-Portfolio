@@ -8,3 +8,4 @@ All the descriptions of my private repositories & other projects.
 - [Oxygen Fight Game](https://github.com/DPigeon/My-Portfolio/blob/master/Oxygen-Fight-Game.md)
 - [Golden Sea Game](https://github.com/DPigeon/My-Portfolio/blob/master/Golden-Sea-Game.md)
 - [Swiss Army Swords](https://github.com/DPigeon/My-Portfolio/blob/master/Swiss-Army-Swords.md)
+- [SeeText](https://github.com/DPigeon/My-Portfolio/blob/master/SeeText.md)
