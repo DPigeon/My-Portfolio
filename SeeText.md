@@ -3,7 +3,7 @@
 ### Start: April 27th 2020 (still working on this project)
 
 ### Download & Install (Alpha Stage)
-This application is available on Google Play. You must be an alpha tester to test it. Send an email to SeeTextApp@gmail.com to become a tester.
+This application is available on <b>Google Play</b>. You must be an alpha tester to test it. Send an email to SeeTextApp@gmail.com to become a tester.
 
 <img width="300" src="https://github.com/DPigeon/SeeText/blob/integration/wireframes/Demo.gif?raw=true">
 
