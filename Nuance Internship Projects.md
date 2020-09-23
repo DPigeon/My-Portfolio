@@ -83,7 +83,7 @@ Technologies Used:
 * Python
 * Docker
 * Kubernetes
-* Testing: JUnit
+* Testing: JUnit & Mockito
 
 <h2>Features</h2>
 Pictures and other info undisclosed for now. Can be discussed if asked.
