@@ -1,9 +1,17 @@
 <img width="600" src="https://user-images.githubusercontent.com/37888675/92421074-bed63180-f144-11ea-9db4-d28879e66321.png">
 
-### Start: April 27th 2020 (still working on this project)
+### Start: April 27th 2020
+### End: September 2020.
+
+### Repository: https://github.com/DPigeon/SeeText
+### Information
+- [Wireframes](https://github.com/DPigeon/SeeText/wiki/Wireframes)
+- [High Level Architecture](https://github.com/DPigeon/SeeText/wiki/High-Level-Architecture)
+- [Classes & Interfaces](https://github.com/DPigeon/SeeText/wiki/Classes-&-Interfaces)
+- [Sequence Diagrams](https://github.com/DPigeon/SeeText/wiki/Sequence-Diagrams)
 
 ### Download & Install (Alpha Stage)
-This application is available on <b>Google Play</b>. You must be an alpha tester to test it. Send an email to SeeTextApp@gmail.com to become a tester.
+This application was available on <b>Google Play</b>. You must be an alpha tester to test it. Send an email to SeeTextApp@gmail.com to become a tester.
 
 <img width="300" src="https://github.com/DPigeon/SeeText/blob/integration/wireframes/Demo.gif?raw=true">
 
