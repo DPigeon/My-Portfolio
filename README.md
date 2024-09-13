@@ -1,6 +1,6 @@
 # Personal Contributions & Projects
 All the descriptions of my private repositories & other projects.
-- Smash Remix Proposed PR Improvements
+- Proposed PR Improvements for [Smash Remix Community](https://github.com/JSsixtyfour/smashremix)
    - [Scripts Enhancement](https://github.com/DPigeon/smashremix/pull/1)
    - [Release Process Automation](https://github.com/DPigeon/smashremix/pull/2)
 - [Stacker Arcade Game](https://github.com/DPigeon/My-Portfolio/blob/master/Stacker.md)
