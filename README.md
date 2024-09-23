@@ -1,5 +1,5 @@
 # Personal Contributions & Projects
-All the descriptions of my private repositories & other projects.
+All the descriptions of my public, private repositories & other projects.
 - [Nightmare Fighter](https://github.com/DPigeon/My-Portfolio/blob/master/Nightmare-Fighter.md)
 - Proposed PR Improvements for [Smash Remix Community](https://github.com/JSsixtyfour/smashremix)
    - [Scripts Enhancement](https://github.com/DPigeon/smashremix/pull/1)
