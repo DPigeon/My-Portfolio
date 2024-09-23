@@ -3,6 +3,7 @@
 Game made in 5 days for the Microsoft Hackathon: Xbox Game Jam 2024.
 - It is a self defense tower game where you must defend the sleeper of nightmares
 - Created using Unity and C#
+- [Video of Nightmare Fighter](https://www.youtube.com/watch?v=XMNXi1jqXuk)
 
 ![image](https://github.com/user-attachments/assets/51d6211e-0a53-4fb8-a8c3-87fb2d7be0b9)
 
