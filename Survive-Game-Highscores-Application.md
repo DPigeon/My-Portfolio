@@ -16,7 +16,7 @@ The goal of the game is to make the best score by killing other dots around you.
 
 # Content: The Game
 
-You can download the game on Jacob`s website (http://jacoblaprise.com/) and try it yourself. Here is a demo of it:
+Here is a demo of it:
 
 ![jacobGame](https://user-images.githubusercontent.com/37888675/55376104-c966b300-54dc-11e9-8450-ce16d7ffca2f.png)
 
